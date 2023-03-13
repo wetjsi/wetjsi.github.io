@@ -16,7 +16,3 @@ Alles fett und kursiv	*** ***		***All this text is important***	Dieser gesamte T
 Tiefgestellt	<sub> </sub>		<sub>This is a subscript text</sub>	Dies ist ein tiefgestellter Text.
 
 Hochgestellt	<sup> </sup>		<sup>This is a superscript text</sup>	Dies ist ein h
-
-#Build settings
-markdown: kramdown
-theme: hacker
