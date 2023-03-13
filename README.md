@@ -19,4 +19,4 @@ Hochgestellt	<sup> </sup>		<sup>This is a superscript text</sup>	Dies ist ein h
 
 #Build settings
 markdown: kramdown
-theme: Hacker
+theme: hacker
